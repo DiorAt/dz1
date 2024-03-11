@@ -1,0 +1,248 @@
+.tbl1{
+    width: 100px;
+    height: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgb(189, 186, 191);   
+}
+
+
+
+#b1{
+    background-color: rgb(254, 254, 254);
+    width: 245px;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.bl1{
+    width: 200px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: rgb(17, 174, 167);
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+
+}
+.bl11{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+.bl111{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+    text-align: center;
+}
+.t1{
+    color: rgb(255, 0, 0);
+    margin-left: 13%;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.24px;
+}
+.t11{
+    padding-top: 14px;
+}
+.img1{
+    width: 200px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+
+
+#b2{
+    background-color: brgb(254, 254, 254);
+    width: 245px;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.bl2{
+    width: 200px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: rgb(17, 174, 167);
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+}
+.bl22{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+.bl222{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+
+#b3{
+    background-color: rgb(254, 254, 254);
+    width: 245px;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.bl3{
+    width: 200px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: rgb(17, 174, 167);
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+}
+.bl33{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+.bl333{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+
+#b4{
+    background-color: rgb(254, 254, 254);
+    width: 245px;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.bl4{
+    width: 200px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: rgb(17, 174, 167);
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+}
+.bl44{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+.bl444{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+
+#b5{
+    background-color: rgb(254, 254, 254);
+    width: 245px;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.bl5{
+    width: 200px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: rgb(17, 174, 167);
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+}
+.bl55{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+.bl555{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+
+#b6{
+    background-color: rgb(254, 254, 254);
+    width: 245px;
+    margin-top: 5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.bl6{
+    width: 200px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: rgb(17, 174, 167);
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+}
+.bl66{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+.bl666{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-top: 0%;
+    border-radius: 8px;
+    text-align: center;
+}
